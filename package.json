@@ -1,0 +1,22 @@
+{
+  "name": "mean-ang",
+  "version": "1.0.0",
+  "description": "Mean stack angular2 tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mntaneja/MEAN-Stack-With-Angular2-Tutorial.git"
+  },
+  "author": "Manisha Taneja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mntaneja/MEAN-Stack-With-Angular2-Tutorial/issues"
+  },
+  "homepage": "https://github.com/mntaneja/MEAN-Stack-With-Angular2-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
